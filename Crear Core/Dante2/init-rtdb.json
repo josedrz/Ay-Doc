@@ -1,0 +1,23 @@
+{
+    "borrador" : {
+      "txt" : "'{\"entityMap\":{},\"blocks\":[{\"key\":\"lcva\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}'"
+    },
+    "email" : {
+    },
+    "post" : {
+      "num" : "0"
+    },
+    "postc" : {
+      "num" : "0"
+    },
+    "postc1" : {
+      "num" : "0"
+    },
+    "postc2" : {
+      "num" : "0"
+    },
+    "posts" : [],
+    "postsc1" : [],
+    "postsc2" : [],
+    "postsc3" : []
+  }
